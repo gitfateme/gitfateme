@@ -11,13 +11,11 @@
 
 - 📫 How to reach me **fatemesadatjalilian@gmail.com**
 
-- 📄 Know about my experiences [https://linkedin.com/in/fateme-sadat-jalilian-766704224](https://linkedin.com/in/fateme-sadat-jalilian-766704224)
-
 - ⚡ Fun fact **Gamer (DOTA2, CSGO......) fav sp: Elden Ring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/fateme-sadat-jalilian-766704224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/fateme-sadat-jalilian-766704224" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://linkedin.com/in/fateme-sadat-jalilian-766704224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ir.linkedin.com/in/fateme-sadat-jalilian-766704224" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
