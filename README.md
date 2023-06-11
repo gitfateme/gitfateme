@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Backend development.**
 
-- 💬 Ask me about **Front-end development, Javascript, React, Vue, Node**
+- 💬 Ask me about **Frontend development, Javascript, React, Vue, Node**
 
 - 📫 How to reach me **fatemesadatjalilian@gmail.com**
 
