@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitfateme&label=Profile%20views&color=0e75b6&style=flat" alt="gitfateme" /> </p>
 
-- 🔭 I’m currently working at **Noviner group**
+- 👩🏻‍💻 I’m currently working at **Noviner group**
 
 - 🌱 I’m currently learning **Backend development.**
 
-- 💬 Ask me about **Javascript, React, Vue, Node**
+- 💬 Ask me about **Front-end development, Javascript, React, Vue, Node**
 
 - 📫 How to reach me **fatemesadatjalilian@gmail.com**
 
