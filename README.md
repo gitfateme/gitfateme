@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fatemesadatjalilian@gmail.com**
 
-- ⚡ Fun fact **Gamer (DOTA2, CSGO......) fav sp: Elden Ring**
+- ⚡ Fun fact **Gamer (DOTA2, CSGO..) fav sp: Elden Ring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
