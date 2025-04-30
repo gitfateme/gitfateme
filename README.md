@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **fatemesadatjalilian@gmail.com**
 
-- ⚡ Fun fact **Gamer (CS2, DOTA2..)**
+- ⚡ Fun fact <a href="https://steamcommunity.com/id/fateme" target="_blank">**Gamer (CS2, DOTA2..)** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fateme-sadat-jalilian-766704224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fateme-sadat-jalilian-766704224" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fateme-sadat-jalilian-766704224" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fateme-sadat-jalilian-766704224" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
