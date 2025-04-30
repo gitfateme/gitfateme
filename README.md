@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fatemesadatjalilian@gmail.com**
 
-- ⚡ Fun fact <a href="https://steamcommunity.com/id/fateme" target="_blank">**Gamer (CS2, DOTA2..)** </a>
+- ⚡ Fun fact **Gamer (CS2, DOTA2..)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
