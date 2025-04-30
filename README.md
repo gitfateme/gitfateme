@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitfateme&label=Profile%20views&color=0e75b6&style=flat" alt="gitfateme" /> </p>
 
-- 👩🏻‍💻 I’m currently working at **Noviner group**
+- 👩🏻‍💻 I’m currently working at **Noroview**
 
-- 🌱 I’m currently learning **Backend development.**
+- 🌱 I’m always learning new things
 
 - 💬 Ask me about **Frontend development, Javascript, Vue, React, Node**
 
 - 📫 How to reach me **fatemesadatjalilian@gmail.com**
 
-- ⚡ Fun fact **Gamer (DOTA2, CS2..)**
+- ⚡ Fun fact **Gamer (CS2, DOTA2..)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
