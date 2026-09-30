@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fateme</h1>
-<h3 align="center">Full-stack web developer from Iran · Vue / Nuxt · React · Node · Go</h3>
+<h3 align="center">Full-stack web developer from Iran</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/fateme-sadat-jalilian-766704224"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
