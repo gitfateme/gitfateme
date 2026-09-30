@@ -13,4 +13,4 @@
 - 🛠️ I build full products end to end: APIs, admin panels, web apps and browser extensions
 - 🎨 Experienced in building **user-focused interfaces** tailored to each project's needs
 - 💬 Ask me about **full-stack business development**
-- 🎮 Fun fact: gamer at heart (**CS2, Dota 2**), and I build tools for games too
+- 🎮 Fun fact: gamer at heart (**CS2, Dota 2**)
